@@ -356,7 +356,7 @@ $R@i.~~ !     :   ~$$$$$B$$en:``
 ?MXT@Wx.~    :     ~"##*$$$$M~
 
                     {r}@{x}  Poker                  {r}@{x}
-                    {r}@{x}  github.com/cloudzik1337     {r}@{x}
+                    {r}@{x}  https://github.com/Yuqqo     {r}@{x}
                     {r}@{x}  Telegram @pokerstare        {r}@{x}
                     {r}@{x}  Version: {VERSION}              {r}@{x}
         """
